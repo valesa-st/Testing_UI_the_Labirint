@@ -17,4 +17,4 @@ class TestData:
 
     text_auth_window = 'Полный доступ к Лабиринту'
     text_phone_number = '8 800 600-95-25'
-    text_video_block = 'Буктрейлеры и видеорецензии недели
+    text_video_block = 'Буктрейлеры и видеорецензии недели'
