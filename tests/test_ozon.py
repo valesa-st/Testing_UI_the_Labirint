@@ -13,4 +13,4 @@ def test_scroll_down_and_contact_click(web_browser):
     page.scroll_down()
     page.LOCATOR_CONTACT.is_visible()
     page.LOCATOR_CONTACT.click()
-    assert page.get_current_url() == 'https://docs.ozon.ru/common/kontakty/
+    assert page.get_current_url() == 'https://docs.ozon.ru/common/kontakty/'
