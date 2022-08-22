@@ -15,4 +15,4 @@ class OzonPage(WebPage):
     LOCATOR_SEARCH_BAR = WebElement(xpath='//input[@placeholder="Искать на Ozon"]')
     LOCATOR_SEARCH_BAR_BTN = WebElement(class_name='aa3f')
     LOCATOR_FILTER_BAR = WebElement(class_name='ui-t5')
-    LOCATOR_ELECTRONICA = WebElement(xpath='//*[@id="layoutPage"]/div[1]/header/div[2]/div/ul/li[10]/a'
+    LOCATOR_ELECTRONICA = WebElement(xpath='//*[@id="layoutPage"]/div[1]/header/div[2]/div/ul/li[10]/a')
