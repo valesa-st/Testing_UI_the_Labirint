@@ -120,4 +120,4 @@ class LabirintPage(WebPage):
 # ------------------------------------------- локаторы номера страниц ----------------------------------------------
 
     # страница 6
-    LOCATORS_PAGE_NUM_6 = WebElement(xpath='//a[@class="pagination-number__text" and @href="?stype=0&page=6"]'
+    LOCATORS_PAGE_NUM_6 = WebElement(xpath='//a[@class="pagination-number__text" and @href="?stype=0&page=6"]')
