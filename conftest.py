@@ -108,4 +108,4 @@ def pytest_collection_finish(session):
                 full_name = get_test_case_docstring(item)
                 print(full_name)
 
-        pytest.exit('Done!'
+        pytest.exit('Done!')
