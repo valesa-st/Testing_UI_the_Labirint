@@ -186,4 +186,4 @@ def test_add_book_in_postponed(web_browser):
     page.LOCATOR_BTN_POSTPONED.click()
     page.wait_page_loaded()
     page.LOCATOR_ICON_POSTPONED.scroll_to_element()
-    assert page.LOCATOR_COUNTER_POSTPONED.get_text() == '1'
+    assert page.LOCATOR_COUNTER_POSTPONED.get_text() == '1
