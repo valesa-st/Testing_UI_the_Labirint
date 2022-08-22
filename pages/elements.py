@@ -237,4 +237,4 @@ class ManyWebElements(WebElement):
             self._web_driver.execute_script("arguments[0].style.border='3px solid red'", element)
 
         # Make screen-shot of the page:
-        self._web_driver.save_screenshot(file_name
+        self._web_driver.save_screenshot(file_name)
